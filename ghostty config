@@ -1,0 +1,6 @@
+command = fish
+background-opacity-cells = true
+background-opacity = 0.80
+background-blur = 50
+theme = Brogrammer
+font-family = "Hurmit Nerd Font"
